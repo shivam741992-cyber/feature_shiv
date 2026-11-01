@@ -1,4 +1,3 @@
 this is 1 sample added
 added new line of comment
 
-this comment added from git hub
